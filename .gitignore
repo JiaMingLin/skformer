@@ -1,0 +1,6 @@
+work_dir/*
+__pychache__/*
+*.npz
+denoised_data/*
+raw_data/*
+statistics/*
